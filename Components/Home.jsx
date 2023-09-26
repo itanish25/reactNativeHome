@@ -110,7 +110,7 @@ export default function Home() {
           </TouchableOpacity>
         </View>
       </View>
-      {/* <Footer /> */}
+      <Footer />
     </View>
   );
 }
@@ -164,7 +164,7 @@ const styles = StyleSheet.create({
   servicesContainer: {
     paddingLeft: '20px',
     margin: '10px',
-    backgroundColor: '#4f4c57',
+    backgroundColor: '#133445',
     paddingTop: "10px",
     borderRadius: '20px',
     width: '95%',
